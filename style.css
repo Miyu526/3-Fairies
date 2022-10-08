@@ -1,0 +1,30 @@
+header {
+  background-color: orangered;
+  font-size: x-large;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+footer {
+  background-color: rgb(243, 243, 243);
+}
+main {
+  background-image: url(img/bgImg.jpg);
+}
+.hukidashi {
+  position: relative;
+}
+.hukidashi button {
+  position: absolute;
+  top: 400px;
+  left: 320px;
+  font-size: 32px;
+  background-color: orangered;
+}
+.comment {
+  position: absolute;
+  top: 48px;
+  left: 56px;
+  font-size: 40px;
+}
